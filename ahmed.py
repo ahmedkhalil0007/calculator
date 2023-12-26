@@ -1,5 +1,5 @@
-# This was my first project when I was 7 years old
-# This project was made to manage calculator
+# This was my second project when I was 7 years old
+# This project is calculator using python
 
 from tkinter import *
 root=Tk()
